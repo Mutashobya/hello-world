@@ -1,2 +1,3 @@
 # hello-world
-A Hello World Example In experimenting github
+
+Hi this is a sample hello world written for testing the Github. 
